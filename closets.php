@@ -40,11 +40,15 @@
       <main>
         <div class="section">
           <div class="container row">
-            <div class="col l2 s10 offset-s1">
-              <img class="materialboxed" data-caption="Closet pequeño con finos detalles" width="250" src="img/closet.jpg">
+            <div class="card hoverable col l2 s10 offset-s1">
+              <div class="card-image">
+                <img class="materialboxed" height="275" data-caption="Closet pequeño con finos detalles"  src="img/closet.jpg">
+              </div>
             </div>
-            <div class="col l2 offset-l2 s10 offset-s1">
-              <img class="materialboxed" data-caption="Closet amplio con muchos compartimentos" width="415" src="img/fondo3.jpg">
+            <div class="card hoverable col l2 offset-l1 s10 offset-s1">
+              <div class="card-image">
+                <img class="materialboxed" height="275" data-caption="Closet amplio con muchos compartimentos"  src="img/fondo3.jpg">
+              </div>
             </div>
             </div>
           </div>
