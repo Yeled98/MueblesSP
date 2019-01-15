@@ -1,0 +1,55 @@
+.texto{
+  font-family: 'Lobster', cursive;
+}
+.mini{
+  font-family: 'Lobster', cursive;
+  font-size: 20px !important;
+}
+.logo{
+  width: 4%;
+  height: 5%;
+  position: absolute;
+  margin-top: 12px;
+}
+.log{
+  width: 10%;
+  height: 11%;
+  margin-top: 12px;
+}
+.lo{
+  position: absolute;
+  margin-top: 0%;
+  margin-left: 5%;
+  font-family: 'Lobster', cursive;
+  font-size: 40px !important;
+}
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+main{
+    flex: 1 0 auto;
+  }
+.fondos{
+    background-image: url(../img/fondo.jpg) !important;
+  }
+.car{
+    background-color: #B52A17;
+    color: white;
+  }
+.car h3{
+  font-family: 'Abril Fatface', cursive;
+}
+.fiesta p{
+  display: none;
+  transition: delay 5s;
+}
+.fiesta:hover p{
+  color: white;
+  display: block;
+}
+.fondo-contacto{
+  background-image: url(../img/llamada.jpg) !important;
+}
