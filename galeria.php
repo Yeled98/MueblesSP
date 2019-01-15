@@ -45,48 +45,60 @@
         </div>
         <div class="section">
           <div class="container row">
-            <div class="col s12 l3 m5">
-              <div class="card cyan hoverable">
+            <div class="col s10 l3 m5 offset-s1">
+              <div class="card blue darken-4 hoverable">
                 <div class="card-image">
-                  <img src="img/mesa.jpeg" alt="Mesas" height="120px">
+                  <img src="img/closet.jpg" alt="Clóset" height="250px">
+                  <span class="card-title">Clóset</span>
+                </div>
                   <div class="card-content">
-                    <h5 class="hide-on-small-only">Mesas</h5>
-                    <h5 class="hide-on-large-only center">Mesas</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                   </div>
-                  </div>
+                    <div class="card-action">
+                      <a href="closets.php">Mostrar más...</a>
+                    </div>
                 </div>
               </div>
-              <div class="col s12 l3 m5">
-                <div class="card cyan hoverable">
+              <div class="col s10 l3 m5 offset-s1">
+                <div class="card blue darken-4 hoverable">
                   <div class="card-image">
-                    <img src="img/cocina.jpeg" alt="Cocina" height="120px">
+                    <img src="img/cocina.jpg" alt="Cocina" height="250px">
+                    <span class="card-title">Cocinas Integrales</span>
+                  </div>
                     <div class="card-content">
-                      <h5 class="hide-on-small-only">Cocinas Integrales</h5>
-                      <h5 class="hide-on-large-only center">Mesas</h5>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     </div>
-                    </div>
+                      <div class="card-action">
+                        <a href="cocinas-integrales.php">Mostrar más...</a>
+                      </div>
                   </div>
                 </div>
-                <div class="col s12 l3 m5">
-                  <div class="card cyan hoverable">
+                <div class="col s10 l3 m5 offset-s1">
+                  <div class="card blue darken-4 hoverable">
                     <div class="card-image">
-                      <img src="img/dos-sillas.jpg" alt="comedores" height="120px">
+                      <img src="img/comedor.jpg" alt="Comedor" height="250px">
+                      <span class="card-title">Comedores</span>
+                    </div>
                       <div class="card-content">
-                        <h5 class="hide-on-small-only">Comedores</h5>
-                        <h5 class="hide-on-large-only center">Mesas</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                       </div>
-                      </div>
+                        <div class="card-action">
+                          <a href="comedores.php">Mostrar más...</a>
+                        </div>
                     </div>
                   </div>
-                  <div class="col s12 l3 m5">
-                    <div class="card cyan hoverable">
+                  <div class="col s10 l3 m5 offset-s1">
+                    <div class="card blue darken-4 hoverable">
                       <div class="card-image">
-                        <img src="img/Salas.jpeg" alt="Salas" height="120px">
+                        <img src="img/sala.jpg" alt="Salas" height="250px">
+                        <span class="card-title">Salas</span>
+                      </div>
                         <div class="card-content">
-                          <h5 class="hide-on-small-only">Salas</h5>
-                          <h5 class="hide-on-large-only center">Mesas</h5>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         </div>
-                        </div>
+                          <div class="card-action">
+                            <a href="salas.php">Mostrar más...</a>
+                          </div>
                       </div>
                     </div>
             </div>

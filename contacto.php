@@ -73,7 +73,7 @@
             </div>
             </div>
             <div class="row">
-              <div class="col l8 offset-l1 s10 offset-s1">
+              <div class="col l7 offset-l1 s10 offset-s1">
                 <div class="card hoverable">
                   <div class="card-content">
                     <form action="enviar.php" method="post">
@@ -116,7 +116,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col l3 hide-on-med-and-down">
+              <div class="col l4 hide-on-med-and-down">
                 <div class="col l10 offset-l1 card hoverable">
                   <div class="card-content">
                     <div class="row">

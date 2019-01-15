@@ -38,7 +38,7 @@
       </nav>
       <main class="fondos">
         <div class="row">
-        <div class="carousel col m12">
+        <div class="carousel col m12 l8 offset-l2">
           <a class="carousel-item" href="#one!"><img src="img/img-carusel.jpg"></a>
           <a class="carousel-item" href="#two!"><img src="img/apertura.jpeg"></a>
           <a class="carousel-item" href="#three!"><img src="img/img-carusel-2.jpeg"></a>
