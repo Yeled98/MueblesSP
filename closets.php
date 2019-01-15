@@ -40,7 +40,12 @@
       <main>
         <div class="section">
           <div class="container row">
-            <img class="materialboxed" data-caption="Closet pequeño con finos detalles" width="250" src="img/closet.jpg">
+            <div class="col l2 s10 offset-s1">
+              <img class="materialboxed" data-caption="Closet pequeño con finos detalles" width="250" src="img/closet.jpg">
+            </div>
+            <div class="col l2 offset-l2 s10 offset-s1">
+              <img class="materialboxed" data-caption="Closet amplio con muchos compartimentos" width="415" src="img/fondo3.jpg">
+            </div>
             </div>
           </div>
       </main>
