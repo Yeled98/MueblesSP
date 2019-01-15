@@ -15,7 +15,7 @@ elseif ($trabajo = 3) {
 elseif ($trabajo = 4) {
   $trabajo = "Puertas";
 }
-elseif ($trabajo = 5) {
+elseif ($trabajo = 5) {-enviado
   $trabajo = "Otros";
 }
 }

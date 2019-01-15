@@ -90,14 +90,14 @@
                   <div class="col s10 l3 m5 offset-s1">
                     <div class="card blue darken-4 hoverable">
                       <div class="card-image">
-                        <img src="img/sala.jpg" alt="Salas" height="250px">
-                        <span class="card-title">Salas</span>
+                        <img src="img/baño.jpg" alt="Meuble de Baño" height="250px">
+                        <span class="card-title">Muebles de Baño</span>
                       </div>
                         <div class="card-content">
                           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         </div>
                           <div class="card-action">
-                            <a href="salas.php">Mostrar más...</a>
+                            <a href="muebles-de-baño.php">Mostrar más...</a>
                           </div>
                       </div>
                     </div>
@@ -120,10 +120,10 @@
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Links</h5>
                 <ul>
-                  <li><a class="grey-text text-lighten-3" href="#!">Salas</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Comedores</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Cocinas Integrales</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Puertas</a></li>
+                  <li><a class="grey-text text-lighten-3" href="closets.php">Clósets</a></li>
+                  <li><a class="grey-text text-lighten-3" href="cocinas-integrales.php">Cocinas Integrales</a></li>
+                  <li><a class="grey-text text-lighten-3" href="comedores.php">Comedores</a></li>
+                  <li><a class="grey-text text-lighten-3" href="muebles-de-baño.php">Muebles de Baño</a></li>
                 </ul>
               </div>
             </div>

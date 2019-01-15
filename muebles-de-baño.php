@@ -43,24 +43,36 @@
             <div class="container row">
               <div class="card hoverable col l2 s10 offset-s1">
                 <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Clóset" data-caption="Closet pequeño con finos detalles"  src="img/closet.jpg">
+                  <img class="materialboxed" height="275" alt="Mueble de Baño" data-caption="Closet pequeño con finos detalles"  src="img/baño.jpg">
                 </div>
               </div>
               <div class="card hoverable col l2 offset-l1 s10 offset-s1">
                 <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Clóset" data-caption="Closet amplio con muchos compartimentos"  src="img/fondo3.jpg">
+                  <img class="materialboxed" height="275" alt="Mueble de Baño" data-caption="Closet amplio con muchos compartimentos"  src="img/baño1.jpg">
+                </div>
+              </div>
+              <!--<div class="card hoverable col l2 offset-l1 s10 offset-s1">
+                <div class="card-image">
+                  <img class="materialboxed" height="275" alt="Mueble de Baño" data-caption="Closet amplio con muchos compartimentos"  src="img/Mueble de Baño.jpeg">
                 </div>
               </div>
               <div class="card hoverable col l2 offset-l1 s10 offset-s1">
                 <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Clóset" data-caption="Closet amplio con muchos compartimentos"  src="img/closet-blanco.jpg">
+                  <img class="materialboxed" height="275" alt="Mueble de Baño" data-caption="Closet amplio con muchos compartimentos"  src="img/apertura.jpeg">
                 </div>
               </div>
-              <div class="card hoverable col l2 offset-l1 s10 offset-s1">
-                <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Clóset" data-caption="Closet amplio con muchos compartimentos"  src="img/closet-madera.jpg">
+              <div class="row">
+                <div class="card hoverable col l2 s10 offset-s1">
+                  <div class="card-image">
+                    <img class="materialboxed" height="275" alt="Mueble de Baño" data-caption="Closet pequeño con finos detalles"  src="img/fondo2.jpg">
+                  </div>
                 </div>
-              </div>
+                <div class="card hoverable col l2 offset-l1 s10 offset-s1">
+                  <div class="card-image">
+                    <img class="materialboxed" height="275" alt="Mueble de Baño" data-caption="Closet amplio con muchos compartimentos"  src="img/Mueble de Baño2.jpg">
+                  </div>
+                </div>
+              </div>-->
             </div>
           </div>
         </div>

@@ -61,6 +61,18 @@
                   <img class="materialboxed" height="275" alt="Cocina" data-caption="Closet amplio con muchos compartimentos"  src="img/apertura.jpeg">
                 </div>
               </div>
+              <div class="row">
+                <div class="card hoverable col l2 s10 offset-s1">
+                  <div class="card-image">
+                    <img class="materialboxed" height="275" alt="Cocina" data-caption="Closet pequeño con finos detalles"  src="img/fondo2.jpg">
+                  </div>
+                </div>
+                <div class="card hoverable col l2 offset-l1 s10 offset-s1">
+                  <div class="card-image">
+                    <img class="materialboxed" height="275" alt="Cocina" data-caption="Closet amplio con muchos compartimentos"  src="img/cocina2.jpg">
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -76,10 +88,10 @@
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Links</h5>
                 <ul>
-                  <li><a class="grey-text text-lighten-3" href="#!">Salas</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Comedores</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Cocinas Integrales</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Puertas</a></li>
+                  <li><a class="grey-text text-lighten-3" href="closets.php">Clósets</a></li>
+                  <li><a class="grey-text text-lighten-3" href="cocinas-integrales.php">Cocinas Integrales</a></li>
+                  <li><a class="grey-text text-lighten-3" href="comedores.php">Comedores</a></li>
+                  <li><a class="grey-text text-lighten-3" href="muebles-de-baño.php">Muebles de Baño</a></li>
                 </ul>
               </div>
             </div>

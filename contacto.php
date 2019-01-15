@@ -109,7 +109,7 @@
                           <textarea id="icon_prefix2" type="text" class="validate materialize-textarea" name="mensaje" required></textarea>
                           <label for="icon_prefix2">Mensaje</label>
                         </div>
-                      <button class="btn waves-effect waves-light" type="submit" >Enviar
+                      <button class="btn waves-effect waves-light" type="submit" onclick="M.toast({html: 'Mensaje enviado'})">Enviar
                         <i class="material-icons right">send</i>
                       </button>
                     </form>
@@ -160,10 +160,10 @@
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Links</h5>
                 <ul>
-                  <li><a class="grey-text text-lighten-3" href="#!">Salas</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Comedores</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Cocinas Integrales</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Puertas</a></li>
+                  <li><a class="grey-text text-lighten-3" href="closets.php">Clósets</a></li>
+                  <li><a class="grey-text text-lighten-3" href="cocinas-integrales.php">Cocinas Integrales</a></li>
+                  <li><a class="grey-text text-lighten-3" href="comedores.php">Comedores</a></li>
+                  <li><a class="grey-text text-lighten-3" href="muebles-de-baño.php">Muebles de Baño</a></li>
                 </ul>
               </div>
             </div>
