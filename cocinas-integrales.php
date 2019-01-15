@@ -43,22 +43,22 @@
             <div class="container row">
               <div class="card hoverable col l2 s10 offset-s1">
                 <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Clóset" data-caption="Closet pequeño con finos detalles"  src="img/closet.jpg">
+                  <img class="materialboxed" height="275" alt="Cocina" data-caption="Closet pequeño con finos detalles"  src="img/cocina.jpg">
                 </div>
               </div>
               <div class="card hoverable col l2 offset-l1 s10 offset-s1">
                 <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Clóset" data-caption="Closet amplio con muchos compartimentos"  src="img/fondo3.jpg">
+                  <img class="materialboxed" height="275" alt="Cocina" data-caption="Closet amplio con muchos compartimentos"  src="img/cocina1.jpg">
                 </div>
               </div>
               <div class="card hoverable col l2 offset-l1 s10 offset-s1">
                 <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Clóset" data-caption="Closet amplio con muchos compartimentos"  src="img/closet-blanco.jpg">
+                  <img class="materialboxed" height="275" alt="Cocina" data-caption="Closet amplio con muchos compartimentos"  src="img/cocina.jpeg">
                 </div>
               </div>
               <div class="card hoverable col l2 offset-l1 s10 offset-s1">
                 <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Clóset" data-caption="Closet amplio con muchos compartimentos"  src="img/closet-madera.jpg">
+                  <img class="materialboxed" height="275" alt="Cocina" data-caption="Closet amplio con muchos compartimentos"  src="img/apertura.jpeg">
                 </div>
               </div>
             </div>
