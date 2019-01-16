@@ -4,16 +4,16 @@ $telefono = $_POST['telefono'];
 $email = $_POST['email'];
 $trabajo = $_POST['trabajo'];
 if ($trabajo = 1) {
-  $trabajo = "Sala";
+  $trabajo = "Clóset";
 }
 elseif ($trabajo = 2) {
-  $trabajo = "Comedor";
-}
-elseif ($trabajo = 3) {
   $trabajo = "Cocina Integral";
 }
+elseif ($trabajo = 3) {
+  $trabajo = "Comedor";
+}
 elseif ($trabajo = 4) {
-  $trabajo = "Puertas";
+  $trabajo = "Mueble de Baño";
 }
 elseif ($trabajo = 5) {-enviado
   $trabajo = "Otros";

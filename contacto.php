@@ -95,11 +95,11 @@
                         <div class="input-field">
                           <i class="material-icons prefix">check</i>
                           <select name="trabajo" required>
-                            <optgroup label="Insectos Rastreros">
-                              <option value="1">Sala</option>
-                              <option value="2">Comedor</option>
-                              <option value="3">Cocina Integral</option>
-                              <option value="4">Puertas</option>
+                              <option value="" disabled selected>Seleccione una Opción</option>
+                              <option value="1">Clóset</option>
+                              <option value="2">Cocina Integral</option>
+                              <option value="3">Comedor</option>
+                              <option value="4">Mueble de Baño</option>
                               <option value="5">Otros</option>
                           </select>
                           <label>Trabajo</label>

@@ -40,6 +40,7 @@
       <main>
         <div class="section">
           <div class="row">
+            <h1 class="center">Cocinas Integrales</h1>
             <div class="container row">
               <div class="card hoverable col l2 s10 offset-s1">
                 <div class="card-image">
