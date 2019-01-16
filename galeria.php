@@ -52,7 +52,7 @@
                   <span class="card-title">Clóset</span>
                 </div>
                   <div class="card-content">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Te ofrecemos diseños hechos a la medida, con los mejores acabados y los compartimentos que requieras para guardar la ropa de manera ordenada.</p>
                   </div>
                     <div class="card-action">
                       <a href="closets.php">Mostrar más...</a>
@@ -66,7 +66,7 @@
                     <span class="card-title">Cocinas Integrales</span>
                   </div>
                     <div class="card-content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                      <p>Con los diseños más sofisticados y limpios, queremos ofrecerte un lugar agradable y cómodo para la preparación de los todos tus alimentos.</p>
                     </div>
                       <div class="card-action">
                         <a href="cocinas-integrales.php">Mostrar más...</a>
@@ -80,7 +80,7 @@
                       <span class="card-title">Comedores</span>
                     </div>
                       <div class="card-content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>No son solo espacios para la alimentación sino que es un lugar de encuentro en el que queremos brindar la mejor experiencia de convivencia.</p>
                       </div>
                         <div class="card-action">
                           <a href="comedores.php">Mostrar más...</a>
@@ -94,7 +94,7 @@
                         <span class="card-title">Muebles de Baño</span>
                       </div>
                         <div class="card-content">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                          <p>Sabemos lo importante que es tener un espacio de aseo personal, amplio y acogedor puesto que eso da pie a un inicio de día excelente.</p>
                         </div>
                           <div class="card-action">
                             <a href="muebles-de-baño.php">Mostrar más...</a>
