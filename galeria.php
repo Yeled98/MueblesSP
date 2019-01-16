@@ -40,7 +40,7 @@
       <main>
         <div class="parallax-container">
           <div class="parallax">
-            <img src="img/fondo3.jpg" alt="Fondo Parallax">
+            <img src="img/fondo4.jpg" alt="Fondo Parallax">
           </div>
         </div>
         <div class="section">
