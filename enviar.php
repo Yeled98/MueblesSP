@@ -15,12 +15,11 @@ elseif ($trabajo = 3) {
 elseif ($trabajo = 4) {
   $trabajo = "Mueble de Baño";
 }
-elseif ($trabajo = 5) {-enviado
+elseif ($trabajo = 5) {
   $trabajo = "Otros";
 }
-}
 $mensaje = $_POST['mensaje'];
-$destinatario = "correo@gmail.com";
+$destinatario = "yeledsubim@gmail.com";
 $asunto = "Contacto desde la web";
 $carta = "De: $nombre \n";
 $carta .= "Telefono: $telefono \n";

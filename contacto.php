@@ -95,7 +95,7 @@
                         <div class="input-field">
                           <i class="material-icons prefix">check</i>
                           <select name="trabajo" required>
-                              <option value="" disabled selected>Seleccione una Opción</option>
+                              <option value="">Seleccione una opción</option>
                               <option value="1">Clóset</option>
                               <option value="2">Cocina Integral</option>
                               <option value="3">Comedor</option>
@@ -109,7 +109,7 @@
                           <textarea id="icon_prefix2" type="text" class="validate materialize-textarea" name="mensaje" required></textarea>
                           <label for="icon_prefix2">Mensaje</label>
                         </div>
-                      <button class="btn waves-effect waves-light" type="submit" onclick="M.toast({html: 'Mensaje enviado'})">Enviar
+                        <button class="btn waves-effect waves-light" type="submit">Enviar
                         <i class="material-icons right">send</i>
                       </button>
                     </form>
