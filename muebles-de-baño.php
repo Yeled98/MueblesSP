@@ -6,7 +6,7 @@
     <head lang="es">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
+        <title>Los Mejores Muebles de Baño | Ebanistería y Carpintería | Santiago Portillo | Ciudad de México</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -44,12 +44,12 @@
             <div class="container row">
               <div class="card hoverable col l2 s10 offset-s1">
                 <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Mueble de Baño" data-caption="Closet pequeño con finos detalles"  src="img/baño.jpg">
+                  <img class="materialboxed" height="275" alt="Mueble de Baño" src="img/baño.jpg">
                 </div>
               </div>
               <div class="card hoverable col l2 offset-l1 s10 offset-s1">
                 <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Mueble de Baño" data-caption="Closet amplio con muchos compartimentos"  src="img/baño1.jpg">
+                  <img class="materialboxed" height="275" alt="Mueble de Baño" src="img/baño1.jpg">
                 </div>
               </div>
               <!--<div class="card hoverable col l2 offset-l1 s10 offset-s1">

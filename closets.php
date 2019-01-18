@@ -6,7 +6,7 @@
     <head lang="es">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
+        <title>Clósetes Hechos a Medida | Santiago Portillo | Ciudad de México</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -54,12 +54,12 @@
               </div>
               <div class="card hoverable col l2 offset-l1 s10 offset-s1">
                 <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Clóset" data-caption="Closet amplio con muchos compartimentos"  src="img/closet-blanco.jpg">
+                  <img class="materialboxed" height="275" alt="Clóset" src="img/closet-blanco.jpg">
                 </div>
               </div>
               <div class="card hoverable col l2 offset-l1 s10 offset-s1">
                 <div class="card-image">
-                  <img class="materialboxed" height="275" alt="Clóset" data-caption="Closet amplio con muchos compartimentos"  src="img/closet-madera.jpg">
+                  <img class="materialboxed" height="275" alt="Clóset"  src="img/closet-madera.jpg">
                 </div>
               </div>
             </div>
