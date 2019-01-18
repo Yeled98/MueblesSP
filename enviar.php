@@ -19,7 +19,7 @@ elseif ($trabajo = 5) {
   $trabajo = "Otros";
 }
 $mensaje = $_POST['mensaje'];
-$destinatario = "yeledsubim@gmail.com";
+$destinatario = "santiagoportillo006@gmail.com";
 $asunto = "Contacto desde la web";
 $carta = "De: $nombre \n";
 $carta .= "Telefono: $telefono \n";
