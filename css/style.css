@@ -51,5 +51,6 @@ main{
   display: block;
 }
 .fondo-contacto{
-  background-image: url(../img/llamada.jpg) !important;
+  background-image: url(../img/llamada.jpg);
+  background-repeat: no-repeat!important;
 }
